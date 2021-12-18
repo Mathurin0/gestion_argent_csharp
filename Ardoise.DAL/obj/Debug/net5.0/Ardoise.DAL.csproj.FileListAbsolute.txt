@@ -1,0 +1,13 @@
+C:\Users\mamat\source\repos\Ardoise.DAL\obj\Debug\net5.0\Ardoise.DAL.csproj.AssemblyReference.cache
+C:\Users\mamat\source\repos\Ardoise.DAL\obj\Debug\net5.0\Ardoise.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mamat\source\repos\Ardoise.DAL\obj\Debug\net5.0\Ardoise.DAL.AssemblyInfoInputs.cache
+C:\Users\mamat\source\repos\Ardoise.DAL\obj\Debug\net5.0\Ardoise.DAL.AssemblyInfo.cs
+C:\Users\mamat\source\repos\Ardoise.DAL\obj\Debug\net5.0\Ardoise.DAL.csproj.CoreCompileInputs.cache
+C:\Users\mamat\source\repos\Ardoise.DAL\bin\Debug\net5.0\Ardoise.DAL.deps.json
+C:\Users\mamat\source\repos\Ardoise.DAL\bin\Debug\net5.0\Ardoise.DAL.dll
+C:\Users\mamat\source\repos\Ardoise.DAL\bin\Debug\net5.0\ref\Ardoise.DAL.dll
+C:\Users\mamat\source\repos\Ardoise.DAL\bin\Debug\net5.0\Ardoise.DAL.pdb
+C:\Users\mamat\source\repos\Ardoise.DAL\obj\Debug\net5.0\Ardoise.DAL.dll
+C:\Users\mamat\source\repos\Ardoise.DAL\obj\Debug\net5.0\ref\Ardoise.DAL.dll
+C:\Users\mamat\source\repos\Ardoise.DAL\obj\Debug\net5.0\Ardoise.DAL.pdb
+C:\Users\mamat\source\repos\Ardoise.DAL\bin\Debug\net5.0\appsettings.json
